@@ -1,6 +1,6 @@
 # 👋 Hello My name is Umair Shakoor.
 
-Greetings! 👋 Welcome to my **Portfolio repository**! 📝  
+Greetings! 👋 Welcome to my **Github Profile**! 📝  
 
 Join my journey into **Web Development** 💻 as I master the **MERN Stack**, refine **Frontend Design Precision**, and explore how creativity meets code.  
 I’m focused on crafting **modern**, **secure**, and **aesthetic** web experiences - building every project with purpose, detail, and a clean mindset. 🚀  
