@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://unseenumair.vercel.app/sitemap.xml
