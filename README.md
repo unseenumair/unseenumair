@@ -1,12 +1,14 @@
-# 👋 Hey, I’m Umair
+# 💫 Hi 👋, I'm Umair
 
 I started with frontend development.  
-Now I’m moving deeper — into how software is **deployed, automated, and maintained** ⚙️
+Now I’m moving deeper - into how software is **deployed, automated, and maintained** ⚙️
+
+> Msg Me 👉 ✉️ **umairshakoor.pro@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ---
 
 ## 🎯 Current Direction
-  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="110" alt="Linux Penguin"/>
+  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100" alt="Linux Penguin"/>
   
 **Junior Frontend Developer → DevOps Aspirant**
   
@@ -45,12 +47,57 @@ to owning the **environment where code runs and fails**.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
 ---
 
 ## 📍 Direction
 - Preparing for **DevOps internships / junior roles**
 - Building projects as proof of learning
 - Long-term: Platform Engineering / SRE
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=unseenumair&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 📊 GitHub Stats:
+
+<div align="center">
+    
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unseenumair&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unseenumair&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unseenumair&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unseenumair&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unseenumair&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=unseenumair&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=unseenumair&theme=radical">
+    
+</div>
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=unseenumair&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=unseenumair&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=unseenumair&theme=dark&hide_border=false)
+
+<br>
+
+---
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=unseenumair&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
