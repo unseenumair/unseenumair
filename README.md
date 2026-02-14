@@ -92,10 +92,6 @@ Shifting focus from writing features to owning the **environment where code runs
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=unseenumair&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 > Learning by doing. Breaking things carefully. Fixing them properly. ⚡
