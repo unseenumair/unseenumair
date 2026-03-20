@@ -73,8 +73,6 @@ Shifting focus from writing features to owning the **environment where code runs
 <br>
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=unseenumair&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=unseenumair&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=unseenumair&theme=dark&hide_border=false)
 
 </div>
@@ -92,6 +90,3 @@ Shifting focus from writing features to owning the **environment where code runs
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-> Learning by doing. Breaking things carefully. Fixing them properly. ⚡
