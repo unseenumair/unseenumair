@@ -1,16 +1,12 @@
-# Umair 👋, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=22&letterSpacing=1px&duration=3000&pause=300&color=4493F8&vCenter=true&height=22&lines=a+Product+Engineer;a+Fresher;Building+Products+not+Projects)](https://git.io/typing-svg)
+# Umair 👋, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=22&letterSpacing=1px&duration=3000&pause=300&color=4493F8&vCenter=true&height=22&lines=a+Product+Engineer;a+Founder-minded+Builder;Building+Products+not+Projects)](https://git.io/typing-svg)
 
-I’m building **SaaS products around real user pain** and growing into a **Product Engineer** who can **design, build, ship, and iterate** end-to-end.
+I’m building **AI-native SaaS products solving real user pain** and growing into a **Product Engineer** who can **design, build, ship, and iterate** end-to-end.
 
 > Msg Me 👉 ✉️ **umairshakoor.pro@gmail.com** for collaboration, product ideas, or meaningful tech conversations.
 
 ---
 
 ## 🎯 Current Focus
-
-<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="90" alt="React Logo"/>
-
-I’m not interested in building random toy apps forever.
 
 I’m focused on shipping **real product-style builds** with increasing technical and product depth.
 
@@ -24,27 +20,16 @@ I’m focused on shipping **real product-style builds** with increasing technica
 
 ---
 
-## 🧠 What I'm Learning Deeply
-
-![React](https://img.shields.io/badge/React-UI%20Systems-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safety-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-UI%2FUX-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-App%20Router-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data%20Modeling-316192?logo=postgresql&logoColor=white&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-Backend%20%2B%20Auth-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
-
----
-
-## 🧪 How I Learn & Build
+## 🧠 How I Learn & Build
 
 My system is simple:
 
 ### **Build → Extract → Rebuild → Improve**
 
-- Build something with guidance / AI assistance
-- Break it down into concepts
-- Rebuild it without relying on AI
-- Add my own product twist, UX polish, and improvements
+- Build something with guidance / AI assistance  
+- Break it down into concepts  
+- Rebuild it without relying on AI  
+- Add my own product twist, UX polish, and improvements  
 
 This helps me build **real skill**, not fake confidence from copied code.
 
@@ -96,14 +81,10 @@ This helps me build **real skill**, not fake confidence from copied code.
 <br>
 
 <div align="center">
-  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=unseenumair&theme=dark&hide_border=false)
-
 </div>
 
 <br>
-
----
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
