@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Umair
+# Umair 👋, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=22&letterSpacing=1px&duration=3000&pause=300&color=4493F8&vCenter=true&height=22&lines=a+Product+Engineer;a+Fresher;Building+Products+not+Projects)](https://git.io/typing-svg)
 
 I’m building **SaaS products around real user pain** and growing into a **Product Engineer** who can **design, build, ship, and iterate** end-to-end.
 
