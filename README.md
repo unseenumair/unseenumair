@@ -8,6 +8,8 @@ I’m building **AI-native SaaS products solving real user pain** and growing in
 
 ## 🎯 Current Focus
 
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="95" alt="Builder Icon"/>
+
 I’m focused on shipping **real product-style builds** with increasing technical and product depth.
 
 ### **Current Product Themes**
@@ -22,7 +24,9 @@ I’m focused on shipping **real product-style builds** with increasing technica
 
 ## 🧠 How I Learn & Build
 
-My system is simple:
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="95" alt="Brain Idea Icon"/>
+
+My system is simple :
 
 ### **Build → Extract → Rebuild → Improve**
 
@@ -36,6 +40,8 @@ This helps me build **real skill**, not fake confidence from copied code.
 ---
 
 ## 🛠 Product Engineer Stack
+
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="95" alt="Tech Stack Icon"/>
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -81,7 +87,7 @@ This helps me build **real skill**, not fake confidence from copied code.
 <br>
 
 <div align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=unseenumair&theme=dark&hide_border=false)
+<img src="https://camo.githubusercontent.com/659a8e4801b46227b92d4a9e7121f1f78713db8e70c8804c69dd0046d47b45da/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d756e7365656e756d616972267468656d653d6461726b26686964655f626f726465723d66616c7365">
 </div>
 
 <br>
